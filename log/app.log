@@ -1,0 +1,103 @@
+12:40:49.223 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -chrome has been launch
+12:40:49.246 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -chrome has been maximize
+12:40:49.609 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -chrome has been redirect to saucedemo site.
+12:40:51.737 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -User has send username data successfully in username field
+12:40:53.841 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -User has send password data successfully in password field
+12:40:55.945 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -user login successful
+12:40:58.030 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -user click on menu button for logout
+12:41:00.072 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -user logout successful
+12:41:02.253 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -firefox has been launch
+12:41:02.257 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -firefox has been maximize
+12:41:02.883 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -firefox has been redirect to saucedemo site.
+12:41:05.009 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -User has send username data successfully in username field
+12:41:07.060 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -User has send password data successfully in password field
+12:41:09.342 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -user login successful
+12:41:11.601 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -user click on menu button for logout
+12:41:13.873 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -user logout successful
+15:50:16.411 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -chrome has been launch
+15:50:16.454 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -chrome has been maximize
+15:50:16.815 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -chrome has been redirect to saucedemo site.
+15:50:18.895 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -User has send username data successfully in username field
+15:50:20.968 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -User has send password data successfully in password field
+15:50:23.098 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -user login successful
+15:50:25.207 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -user click on menu button for logout
+15:50:27.255 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -user logout successful
+15:50:29.281 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -firefox has been launch
+15:50:29.290 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -firefox has been maximize
+15:50:30.031 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -firefox has been redirect to saucedemo site.
+15:50:32.114 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -User has send username data successfully in username field
+15:50:34.147 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -User has send password data successfully in password field
+15:50:36.436 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -user login successful
+15:50:38.717 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -user click on menu button for logout
+15:50:41.002 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -user logout successful
+15:53:06.466 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -chrome has been launch
+15:53:06.495 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -chrome has been maximize
+15:53:06.871 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -chrome has been redirect to saucedemo site.
+15:53:08.989 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -User has send username data successfully in username field
+15:53:11.075 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -User has send password data successfully in password field
+15:53:13.189 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -user login successful
+15:53:15.274 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -user click on menu button for logout
+15:53:17.327 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -user logout successful
+15:53:19.300 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -firefox has been launch
+15:53:19.312 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -firefox has been maximize
+15:53:20.604 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -firefox has been redirect to saucedemo site.
+15:53:22.698 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -User has send username data successfully in username field
+15:53:24.727 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -User has send password data successfully in password field
+15:53:27.007 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -user login successful
+15:53:29.265 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -user click on menu button for logout
+15:53:31.544 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -user logout successful
+15:58:00.671 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -chrome has been launch
+15:58:00.711 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -chrome has been maximize
+15:58:01.130 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -chrome has been redirect to saucedemo site.
+15:58:03.250 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -User has send username data successfully in username field
+15:58:05.347 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -User has send password data successfully in password field
+15:58:07.462 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -user login successful
+15:58:09.546 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -user click on menu button for logout
+15:58:11.593 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -user logout successful
+15:59:01.303 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -chrome has been launch
+15:59:01.364 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -chrome has been maximize
+15:59:02.090 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -chrome has been redirect to saucedemo site.
+15:59:04.222 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -User has send username data successfully in username field
+15:59:06.292 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -User has send password data successfully in password field
+15:59:08.411 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -user login successful
+15:59:10.480 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -user click on menu button for logout
+15:59:12.570 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -user logout successful
+15:59:14.642 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -firefox has been launch
+15:59:14.672 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -firefox has been maximize
+15:59:15.579 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -firefox has been redirect to saucedemo site.
+15:59:17.717 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -User has send username data successfully in username field
+15:59:19.793 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -User has send password data successfully in password field
+15:59:22.111 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -user login successful
+15:59:24.395 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -user click on menu button for logout
+15:59:26.686 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -user logout successful
+16:21:03.966 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -chrome has been launch
+16:21:04.012 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -chrome has been maximize
+16:21:04.401 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -chrome has been redirect to saucedemo site.
+16:21:06.534 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -User has send username data successfully in username field
+16:21:08.617 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -User has send password data successfully in password field
+16:21:10.692 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -user login successful
+16:21:12.749 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -user click on menu button for logout
+16:21:14.861 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -user logout successful
+16:21:16.858 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -firefox has been launch
+16:21:16.879 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -firefox has been maximize
+16:21:17.567 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -firefox has been redirect to saucedemo site.
+16:21:19.688 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -User has send username data successfully in username field
+16:21:21.766 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -User has send password data successfully in password field
+16:21:24.072 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -user login successful
+16:21:26.358 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -user click on menu button for logout
+16:21:28.652 [main] INFO    log4jDemo.CrossBrowsingTestingAndStoreLogsInFile -user logout successful
+19:17:31.821 [main] INFO    log4jDemo.SauceDemo -chromebrowser has been launch
+19:17:31.868 [main] INFO    log4jDemo.SauceDemo -chromebrowser will get maximize
+19:17:32.230 [main] INFO    log4jDemo.SauceDemo -chromebrowser has been redirected to saucedemo site
+19:17:32.321 [main] INFO    log4jDemo.SauceDemo -username has been enter in username field
+19:17:32.378 [main] INFO    log4jDemo.SauceDemo -password has been enter in password field
+19:17:32.462 [main] INFO    log4jDemo.SauceDemo -login button has been click
+19:17:32.520 [main] INFO    log4jDemo.SauceDemo -Open menu button has been clicked
+19:17:33.571 [main] INFO    log4jDemo.SauceDemo -logout link should be clicked.
+19:20:14.798 [main] INFO    log4jDemo.SauceDemo -chromebrowser has been launch
+19:20:14.831 [main] INFO    log4jDemo.SauceDemo -chromebrowser will get maximize
+19:20:15.180 [main] INFO    log4jDemo.SauceDemo -chromebrowser has been redirected to saucedemo site
+19:20:15.260 [main] INFO    log4jDemo.SauceDemo -username has been enter in username field
+19:20:15.312 [main] INFO    log4jDemo.SauceDemo -password has been enter in password field
+19:20:15.376 [main] INFO    log4jDemo.SauceDemo -login button has been click
+19:20:15.399 [main] ERROR   log4jDemo.SauceDemo -user login is unsuccessfully

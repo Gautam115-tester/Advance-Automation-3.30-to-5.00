@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration strict="true">
+	<Appenders>
+		<Appender type="Console" name="Con">
+			<Layout type="PatternLayout"
+				pattern="%d{HH:mm:ss.SSS} [%t] %-7level %logger{36} - %m%n" />
+		</Appender>
+
+		<Appender type="File" name="file"
+			filename="/home/lab-01-09/Workspace/Advance Demo/Automation3.30to5.00/log/app.log">
+			<Layout type="PatternLayout"
+				pattern="%d{HH:mm:ss.SSS} [%t] %-7level %logger{36} -%m%n" />
+		</Appender>
+	</Appenders>
+
+	<Loggers>
+		<Root level="all">
+			<AppenderRef ref="file"></AppenderRef>
+		</Root>
+	</Loggers>
+</Configuration>
